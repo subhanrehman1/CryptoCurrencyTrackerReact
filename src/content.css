@@ -1,0 +1,13 @@
+#label {
+  display: grid;
+  grid-template-columns: 16.6% 16.6% 16.6% 16.6% 16.6% 16.6%;
+  margin-left: 3rem;
+}
+img {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+#fcol {
+  display: flex;
+}

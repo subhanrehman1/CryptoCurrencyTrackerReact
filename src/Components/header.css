@@ -1,0 +1,13 @@
+#head {
+  display: flex;
+  width: 100%;
+}
+h1 {
+  color: #0284c7;
+}
+#labels {
+  display: grid;
+  grid-template-columns: 16.6% 16.6% 16.6% 16.6% 16.6% 16.6%;
+  margin-left: 3rem;
+  color: #0284c7;
+}
